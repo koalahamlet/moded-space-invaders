@@ -4,10 +4,6 @@ Space Invaders
 The classic Space Invaders game written in JavaScript as a learning exercise.
 No jQuery or any other third party libraries, just raw js/html.
 
-See it Live: http://mikecanco.de/experiments/spaceinvaders
-
-![Space Invaders Screenshot](http://mikecanco.de/experiments/spaceinvaders/screenshot.jpg "Space Invaders Screenshot")
-
 Intro
 -----
 
