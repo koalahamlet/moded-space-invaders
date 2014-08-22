@@ -1,7 +1,7 @@
 Space Invaders
 ==============
 
-The classic Space Invaders game written in JavaScript as a learning exercise.
+The classic Space Invaders game, with a twist, written in JavaScript as a learning exercise.
 No jQuery or any other third party libraries, just raw js/html.
 
 Intro
@@ -9,12 +9,10 @@ Intro
 
 What's there to say? It's Space Invaders in JavaScript! Create the game, give it a 
 div to draw to, tell it when the keyboard is mashed and that's all you need to 
-add Space Invaders to a wesite.
+add Space Invaders to a website.
 
 The Space Invaders Javascript code is all in one file - why is this? Well this is actually
-part of a series of experiments that are used as tutorials, and at this stage we're keeping
-things simple with single files.
-
+part of a series of experiments that are used as tutorials, and modularity is key with tutorials.
 Adding Space Invaders to a Web Page
 -----------------------------------
 
